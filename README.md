@@ -455,7 +455,7 @@ echo "--- Mostrando Logo para: postmarketos_small ---"
 neofetch --ascii_distro postmarketos_small
 echo "--- Mostrando Logo para: void_small ---"
 neofetch --ascii_distro void_small
-
+```
 ## Configuración Permanente
 
 Una vez que hayas encontrado un logo que te guste usando los comandos de arriba, puedes configurarlo permanentemente en Neofetch siguiendo estos pasos:
